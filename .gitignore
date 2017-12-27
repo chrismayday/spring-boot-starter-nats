@@ -4,3 +4,5 @@
 target
 
 spring-boot-starter-nats.iml
+
+.gitignore
